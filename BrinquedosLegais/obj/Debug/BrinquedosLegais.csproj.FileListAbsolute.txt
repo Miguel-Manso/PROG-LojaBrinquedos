@@ -1,0 +1,12 @@
+C:\Users\Unifafibe\source\repos\BrinquedosLegais\bin\Debug\BrinquedosLegais.exe.config
+C:\Users\Unifafibe\source\repos\BrinquedosLegais\bin\Debug\BrinquedosLegais.exe
+C:\Users\Unifafibe\source\repos\BrinquedosLegais\bin\Debug\BrinquedosLegais.pdb
+C:\Users\Unifafibe\source\repos\BrinquedosLegais\obj\Debug\BrinquedosLegais.csproj.AssemblyReference.cache
+C:\Users\Unifafibe\source\repos\BrinquedosLegais\obj\Debug\BrinquedosLegais.Principal.resources
+C:\Users\Unifafibe\source\repos\BrinquedosLegais\obj\Debug\BrinquedosLegais.Properties.Resources.resources
+C:\Users\Unifafibe\source\repos\BrinquedosLegais\obj\Debug\BrinquedosLegais.csproj.GenerateResource.cache
+C:\Users\Unifafibe\source\repos\BrinquedosLegais\obj\Debug\BrinquedosLegais.csproj.CoreCompileInputs.cache
+C:\Users\Unifafibe\source\repos\BrinquedosLegais\obj\Debug\BrinquedosLegais.exe
+C:\Users\Unifafibe\source\repos\BrinquedosLegais\obj\Debug\BrinquedosLegais.pdb
+C:\Users\Unifafibe\source\repos\BrinquedosLegais\obj\Debug\BrinquedosLegais.Brinquedos.resources
+C:\Users\Unifafibe\source\repos\BrinquedosLegais\obj\Debug\BrinquedosLegais.Vizualizacao.resources
